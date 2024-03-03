@@ -1,0 +1,66 @@
+#contenedor{
+	width:500px;
+	height:300px;
+	margin-top:150px;
+	margin-left: auto;
+	margin-right: auto;
+	background: url(../imagenes/fondo.png) no-repeat center;
+	color: #ebebeb;
+	font: 12px Arial;
+}
+
+#contenedor h2 {
+	padding-top:40px;
+	margin:10px 70px;
+	color: #ebebeb;
+	font-size:24px;
+}
+
+#contenedor h2 img{
+	float: right;
+}
+
+
+#name {
+	float: left;
+	width:80px;
+	text-align: right;
+	padding: 20px 20px 0px 70px;
+}
+
+#field {
+	float: left;
+	width:230px;
+	padding-top:15px;
+}
+
+
+.form-login  {
+	width: 205px;
+	border: 1px solid #0d2c52;
+	background-color:#1e4f8a;
+	font-size: 15px;
+	color: #ebebeb;
+}
+
+#field-submit {
+	float:right;
+	margin:20px 120px 0 0;
+}
+
+.enviar {
+	color:#FFFFFF;
+	border:1px solid #FFFFFF;
+	background:#4a87d6;
+	padding: 5px 10px;
+	cursor: pointer;
+}
+
+.enviar:hover {
+	border:1px solid #1154ab;
+	background:#1e4f8a;
+	padding: 5px 10px;
+	cursor: pointer;
+}
+
+

