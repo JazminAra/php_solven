@@ -12,4 +12,4 @@ Sistema web de solvencia para prestamos de materiales en una universidad en php 
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/usuario/proyecto.git
+   git clone https://github.com/JazminAra/sistema-php.git
