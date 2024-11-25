@@ -1,4 +1,4 @@
-# SISTEMA DE SOLVENCIA EN PHP
+# SISTEMA EN PHP
 
 Sistema web de solvencia para prestamos de materiales en una universidad en php con modulos de CRUD de alumnos, usuarios, administrativos, arituclo, materiales, sedes, facultades, escuelas, oficina y tipo oficina. 
 
