@@ -1,12 +1,12 @@
 # SISTEMA DE SOLVENCIA EN PHP
 
-Breve descripción del proyecto.
+Sistema web de solvencia para prestamos de materiales en una universidad en php con modulos de CRUD de alumnos, usuarios, administrativos, arituclo, materiales, sedes, facultades, escuelas, oficina y tipo oficina. 
 
 ## Requisitos
 
 - PHP versión 8.0 o superior.
-- Composer (si aplica).
-- Extensiones necesarias (por ejemplo, `ext-mbstring`, `ext-json`).
+- Composer.
+- Extensiones necesarias `ext-json`.
 
 ## Instalación
 
