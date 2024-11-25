@@ -1,6 +1,3 @@
-<?php
-echo "Esto es un ejemplo de código PHP";
-
 # SISTEMA DE SOLVENCIA EN PHP
 
 Breve descripción del proyecto.
